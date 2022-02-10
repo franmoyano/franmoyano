@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @franmoyano
+### 👋🏼 Hi! I'm Franco Moyano
 - 🌱 I’m currently learning Java, POO, Spring, and Web Development (HTML, CSS, JS, and REACT.js)
 
 <!---
