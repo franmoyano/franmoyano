@@ -1,4 +1,4 @@
-### 👋🏼 Hi! I'm Franco, trainee Java Developer
+### 👋🏼 Hi! I'm Franco, trainee Java Developer ☕
 
 ```java
 Dev franco = new Dev();
