@@ -1,4 +1,4 @@
-# Hi! I'm Franco, trainee Java Developer ☕
+# Hi! I'm Franco, Java Developer Jr ☕
 ```java
 Dev franco = new Dev();
 franco.setAge(21);
