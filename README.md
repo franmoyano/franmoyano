@@ -1,4 +1,4 @@
-# Hi! I'm Franco, Java/React Developer
+# Hi! I'm Franco, React/Java Developer
 
 ## You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/franco-moyano/)
